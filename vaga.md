@@ -2,12 +2,15 @@
 
 O(A) profissional terá liberdade para propor e implementar novas soluções de tecnologia, frameworks e soluções. As principais atividades serão:
 
-- Coordenar e motivar os colaboradores da área de tecnologia
-- Participar da criação de novas features junto ao time de produto
-- Definir as ferramentas e tecnologias que serão utilizadas para atender os requisitos definidos
-- Simplificar ideias complexas ou de difícil implementação
-- Ser o porta-voz de novas tecnologias e inovações
-- Manter ambiente de teste e versionamento de código organizados
+- Transforme especificações em sequência lógica; fluxogramas; pesquisando soluções.
+
+- Codifica especificações convertendo sequência lógica e fluxo de trabalho em linguagem de programa.
+
+- Verifica a codificação executando execuções de avaliação; código de modificação.
+
+- Documentando código antigo e novo.
+
+- Avança o conhecimento do trabalho para o próximo nível, participando de oportunidades educacionais; lendo publicações profissionais.
 
 ## Local
 Vila Olímpia - SP
@@ -21,21 +24,41 @@ Plano de Stock Option
 
 ## Requisitos
 
-- Conhecimento em Javascript ou Typescript
-- Experiência com Google Cloud Platform e Firebase
-- Entendimento do framework React
-- Conhecimento de metodologia ágil
-- Conhecimentos em planejamento e condução de projetos
+- Mais de 2 anos de experiência em codificação
+
+- Bacharel em Ciência da Computação, Engenharia de Computação e áreas afins;
+
+- Forte conhecimento de padrões de design e engenharia de software;
+
+- Experimente React e React Native
+
+- Experiência em APIs REST
+
+- Experimente o processo de distribuição da App Store e do Google Play
+
+- Aprenda a aplicar diretrizes (Apple, Google ou outras)
+
+- Experiência (Azure, AWS, Google Cloud ou outro)
+
+- Trabalharam com ferramentas de construção e automação;
+
+- Conhecimento de conceitos de design de API;
+
+- Conhecimento em javascript e Git
+
+- Participe de todas as etapas do aplicativo, com foco no desenvolvimento e solução de problemas
+
+- Use o HTML das linguagens de marcação para criar páginas amigáveis
 
 ## Contratação
 PJ a combinar
 
 ## Nossa empresa
-A Hupper está mudando a forma como as empresas cuidam da saúde dos colaboradores, engajando-os nas ações de saúde preventiva e qualidade de vida. A partir de uma plataforma gamificada que incentiva e premia a adoção de hábitos saudáveis, ajudamos as empresas a aumentar a produtividade e diminuir os custos com saúde, levando qualidade de vida e bem-estar aos colaboradores.
+A xxxx está mudando a forma como as empresas cuidam da saúde dos colaboradores, engajando-os nas ações de saúde preventiva e qualidade de vida. A partir de uma plataforma gamificada que incentiva e premia a adoção de hábitos saudáveis, ajudamos as empresas a aumentar a produtividade e diminuir os custos com saúde, levando qualidade de vida e bem-estar aos colaboradores.
 
 ## Como se candidatar
-Inscreva-se pelo link: http://bit.ly/2Gbj0XG
-<br>Dúvidas? entre em contato por vagas@hupper.life ou (11)972995500
+Inscreva-se pelo link: xxx
+<br>Dúvidas? entre em contato por xxx@xxx.com ou (11)xxx
 
 ## Labels
 - 🏢 Flexível
