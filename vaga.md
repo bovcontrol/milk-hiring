@@ -13,7 +13,7 @@ O(A) profissional terá liberdade para propor e implementar novas soluções de 
 - Avança o conhecimento do trabalho para o próximo nível, participando de oportunidades educacionais; lendo publicações profissionais.
 
 ## Local
-Vila Olímpia - SP
+Berrini - Sao Paulo/SP
 
 ## Benefícios / Diferenciais
 
