@@ -22,7 +22,6 @@ Nossas soluções combinam coleta e a análise de dados, para toda a cadeia prod
 Você deve ser capaz de:
 
 - Estruturar
-- Estilizar
 - Conectar
 - Manipular dados
 
