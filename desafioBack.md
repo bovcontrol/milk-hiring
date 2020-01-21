@@ -37,9 +37,11 @@ Você deve ser capaz de:
 ## Requisitos 😇
 
 - Bibliotecas e patterns <u>Indispensáveis</u>
- - NodeJS
+ - NodeJS 8 ou superior
  - Express
- - MongoDB
+ - MongoDB 4 ou superior
+ 
+ Voce pode complementar com outras libs ou frameworks que achar necessário. 
 
 ## Prazo de entrega 🤓
 
