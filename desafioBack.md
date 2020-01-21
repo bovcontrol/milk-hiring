@@ -29,7 +29,7 @@ Você deve ser capaz de:
 
 ## Sobre o desafio 🤯
 
-<p align="justify">Construa uma aplicação com rotas de APi que seja capaz de Criar,consultar e editar registro de Animais, salvando os dados em um banco de dados mongoDb </p>
+<p align="justify">Construa uma aplicação back-end(API) que seja capaz de Criar,consultar e editar registro de Animais, salvando os dados em um banco de dados mongoDb </p>
 <p align="justify">Os animais devem conter informações como tipo,nome,id,peso e idade em meses. </p>
 
 <p align="justify">O projeto deverá ser entregue em forma de repositório público com as instruções de instalação e execução.</p>
