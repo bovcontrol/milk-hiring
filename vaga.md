@@ -1,3 +1,14 @@
+## Nossa empresa
+Olá, nós somos a Bovcontrol!
+
+E nós estamos revolucionando o agribusiness no mundo!
+
+Somos uma startup global que vem conectando todas as vacas e fazendas do planeta numa 'nuvem diferente' (antes do modismo do blockchain) - com o objetivo de erradicar a fome no mundo, empoderando produtores rurais com tecnologia para serem mais eficientes e sustentáveis. Nossas soluções combinam coleta e a análise de dados, para toda a cadeia produtiva.
+
+Os dados são coletados no campo por aplicativos móveis e podem ser analisados por vários meios, por diferentes elos da cadeia (varejo, bancos, processadores de leite, etc).
+
+Alimentar 1 bilhão de pessoas por dia, em 10 anos de existência da empresa, é a nossa meta.
+
 ## Descrição da vaga
 
 O(A) profissional terá liberdade para propor e implementar novas soluções de tecnologia, frameworks e soluções. As principais atividades serão:
@@ -16,7 +27,6 @@ O(A) profissional terá liberdade para propor e implementar novas soluções de 
 Sao Paulo/SP - (Berrini)
 
 ## Benefícios / Diferenciais
-
 Horário flexível
 No Dress Code
 Alto potencial de crescimento
@@ -52,9 +62,6 @@ Plano de Stock Option
 
 ## Contratação
 PJ a combinar
-
-## Nossa empresa
-A xxxx está mudando a forma como as empresas cuidam da saúde dos colaboradores, engajando-os nas ações de saúde preventiva e qualidade de vida. A partir de uma plataforma gamificada que incentiva e premia a adoção de hábitos saudáveis, ajudamos as empresas a aumentar a produtividade e diminuir os custos com saúde, levando qualidade de vida e bem-estar aos colaboradores.
 
 ## Como se candidatar
 <br>Envie seu CV, Linkedin e Pretensão salarial para sarita@bovcontrol.com
