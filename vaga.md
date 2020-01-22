@@ -55,10 +55,10 @@ O(A) profissional terá liberdade para propor e implementar novas soluções de 
 Sao Paulo/SP - (Berrini)
 
 ## Benefícios / Diferenciais
-Horário flexível
-No Dress Code
-Alto potencial de crescimento
-Plano de Stock Option
+- Horário flexível
+- No Dress Code
+- Alto potencial de crescimento
+- Plano de Stock Option
 
 ## Contratação
 PJ a combinar
