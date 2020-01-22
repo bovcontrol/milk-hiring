@@ -23,15 +23,6 @@ O(A) profissional terá liberdade para propor e implementar novas soluções de 
 
 - Avança o conhecimento do trabalho para o próximo nível, participando de oportunidades educacionais; lendo publicações profissionais.
 
-## Local
-Sao Paulo/SP - (Berrini)
-
-## Benefícios / Diferenciais
-Horário flexível
-No Dress Code
-Alto potencial de crescimento
-Plano de Stock Option
-
 ## Requisitos
 
 - Mais de 2 anos de experiência em codificação
@@ -59,6 +50,15 @@ Plano de Stock Option
 - Participe de todas as etapas do aplicativo, com foco no desenvolvimento e solução de problemas
 
 - Use o HTML das linguagens de marcação para criar páginas amigáveis
+
+## Local
+Sao Paulo/SP - (Berrini)
+
+## Benefícios / Diferenciais
+Horário flexível
+No Dress Code
+Alto potencial de crescimento
+Plano de Stock Option
 
 ## Contratação
 PJ a combinar
