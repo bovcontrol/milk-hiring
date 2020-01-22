@@ -13,7 +13,7 @@ O(A) profissional terá liberdade para propor e implementar novas soluções de 
 - Avança o conhecimento do trabalho para o próximo nível, participando de oportunidades educacionais; lendo publicações profissionais.
 
 ## Local
-Berrini - Sao Paulo/SP
+Sao Paulo/SP - (Berrini)
 
 ## Benefícios / Diferenciais
 
@@ -57,12 +57,10 @@ PJ a combinar
 A xxxx está mudando a forma como as empresas cuidam da saúde dos colaboradores, engajando-os nas ações de saúde preventiva e qualidade de vida. A partir de uma plataforma gamificada que incentiva e premia a adoção de hábitos saudáveis, ajudamos as empresas a aumentar a produtividade e diminuir os custos com saúde, levando qualidade de vida e bem-estar aos colaboradores.
 
 ## Como se candidatar
-Inscreva-se pelo link: xxx
-<br>Dúvidas? entre em contato por xxx@xxx.com ou (11)xxx
+<br>Envie seu CV, Linkedin e Pretensão salarial para sarita@bovcontrol.com
 
 ## Labels
 - 🏢 Flexível
 - 🏢 Presencial
-- 👨 Júnior
 - 👨 Pleno
 - ⚖️ PJ
