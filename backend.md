@@ -47,8 +47,8 @@ Considerando as regras descritas, crie uma API com os seguintes recursos:
 - cadastro de fazenda e fazendeiro;
 - cadastro da produção de leite diário, em litros;
 - consulta do volume de leite entregue para cada dia e a média mensal, dado um fazendeiro e um mês de parâmetro;
-- consulta do preço do litro de leite pago ao fazendeiro, dado um código de fazendeiro e um mês de parâmetro;
-- consulta do preço do litro de leite pago para cada mês do ano, dado um fazendeiro e um ano de parâmetro;
+- consulta do preço do litro de leite pago ao fazendeiro, dado um código de fazendeiro e um mês de parâmetro. Apresentar o preço no formato numérico brasileiro e inglês;
+- consulta do preço do litro de leite pago para cada mês do ano, dado um fazendeiro e um ano de parâmetro. Apresentar o preço no formato numérico brasileiro e inglês;
 
 
 
