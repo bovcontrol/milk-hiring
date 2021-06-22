@@ -56,6 +56,8 @@ Considerando as regras descritas, crie uma API com os seguintes recursos:
 
 O objetivo do teste é permitir que possamos conhecer um pouco sobre suas habilidades técnicas de desenvolvimento, como o conhecimento e aplicação de conceitos que vão além da codificação, como organização da aplicação em camadas de responsabildade, escalabilidade e manuntenibilidade.
 
+Critérios específicos que iremos avaliar:
+
 - nível de conhecimento da linguagem;
 - aplicação de conceitos de orientação a objetos (herança, polimorfismo, composição, encapsulamento);
 - aplicação de conceitos de padrões de projeto (criação, estrutura e comportamento);
