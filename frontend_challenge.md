@@ -15,7 +15,6 @@ Our solutions combine data collection and analysis for the whole supply chain..<
 
 <p align="justify">Data is field collected and analyzed with different perspectives. This enables assistance from the farm to the industry to the market (and many other supply chain players).</p>
 
-
 ## What do we Expect? 🤨
 
 You should be capable of:
@@ -40,10 +39,12 @@ As we will be evalutating these requirements, we will let you <b>decide how to d
 ## Requirements 😇
 
 - Libraries and patterns <u>Must Haves</u>
- - React-native 0.60 ou above
- - Axios
- - <b>UTILIZE STYLED COMPONENTS</b>
- - Hooks
+- React-native 0.65 ou superior
+- Axios
+- <b>UTILIZE STYLED COMPONENTS</b>
+- Hooks
+- ContextAPI
+- Banco de Dados ([WatermelonDB](https://nozbe.github.io/WatermelonDB/index.html) ou [RealmDB](https://docs.mongodb.com/realm/sdk/react-native/))
 
 ## Delivery 🤓
 
@@ -54,8 +55,3 @@ If any problems arrise, please get in touch with your company contact (in advanc
 Good luck!
 
 > Intelligence is the ability to adapt to change - Stephen Hawking
-
-
-
-
-
