@@ -43,10 +43,12 @@ Como estaremos analisando esses requisitos deixamos que o design seja <b>decidid
 ## Requisitos 😇
 
 - Bibliotecas e patterns <u>Indispensáveis</u>
- - React-native 0.60 ou superior
+ - React-native 0.65 ou superior
  - Axios
  - <b>UTILIZE STYLED COMPONENTS</b>
  - Hooks
+ - ContextAPI
+ - Banco de Dados (WatermelonDB ou RealmDB)
 
 ## Prazo de entrega 🤓
 
