@@ -42,11 +42,13 @@ Como estaremos analisando esses requisitos deixamos que o design seja <b>decidid
 
 ## Requisitos 😇
 
-- Bibliotecas e patterns <u>Indispensáveis</u>
- - React-native 0.60 ou superior
- - Axios
- - <b>UTILIZE STYLED COMPONENTS</b>
- - Hooks
+- Libraries and patterns <u>Must Haves</u>
+- React-native 0.65 ou superior
+- Axios
+- <b>UTILIZE STYLED COMPONENTS</b>
+- Hooks
+- ContextAPI
+- Banco de Dados ([WatermelonDB](https://nozbe.github.io/WatermelonDB/index.html) ou [RealmDB](https://docs.mongodb.com/realm/sdk/react-native/))
 
 ## Prazo de entrega 🤓
 
@@ -56,10 +58,4 @@ Caso tenha algum imprevisto avise com antecedência o encarregado do desafio.
 
 Boa sorte!
 
-
 > Inteligência é a capacidade de se adaptar a mudança - Stephen Hawking
-
-
-
-
-
