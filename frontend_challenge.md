@@ -44,13 +44,11 @@ As we will be evalutating these requirements, we will let you <b>decide how to d
 - <b>UTILIZE STYLED COMPONENTS</b>
 - Hooks
 - ContextAPI
-- Banco de Dados ([WatermelonDB](https://nozbe.github.io/WatermelonDB/index.html) ou [RealmDB](https://docs.mongodb.com/realm/sdk/react-native/))
+- Databases ([WatermelonDB](https://nozbe.github.io/WatermelonDB/index.html) or [RealmDB](https://docs.mongodb.com/realm/sdk/react-native/))
 
 ## Delivery 🤓
 
 The challenge should be delivered 72 hours after receiving it.
-
-If any problems arrise, please get in touch with your company contact (in advance).
 
 Good luck!
 
