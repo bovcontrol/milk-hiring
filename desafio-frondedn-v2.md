@@ -49,7 +49,7 @@ Como estaremos analisando esses requisitos deixamos que o design seja **decidid
 
 ## API do desafio
 
-- Segue documentação da nossa ([API](http://challenge-front-end.bovcontrol.com/documents/#/)). Disponível para envio e consulta de checklists.
+- Segue documentação da nossa [API](http://challenge-front-end.bovcontrol.com/documents/#/). Disponível para envio e consulta de checklists.
 
 ## **Prazo de entrega 🤓**
 
