@@ -27,9 +27,8 @@ Como estaremos analisando esses requisitos deixamos que o design seja *decidido 
 
 
 ## **Requisitos 😇**
-
 - Libraries and patterns
-- React-native 0.65 ou superior. (Fique a vontade para utilizar o expo)
+- ReactJs/Next
 - **UTILIZE STYLED COMPONENTS**
 - Hooks
 - ContextAPI
