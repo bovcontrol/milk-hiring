@@ -19,7 +19,7 @@ Crie um repositório no seu Github e envie para ele a solução para o desafio p
 
 Ao término envie um email para hello@bovcontrol.com informando que finalizou o teste juntamente com o endereço do repositório.
 
-O teste pode ser realizado usando a linguagem de programação que desejar bem como com as ferramentas que julgar adequadas.
+O teste deverá ser realizado usando Nodejs e MongoDB.
 
 
 
