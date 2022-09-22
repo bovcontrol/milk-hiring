@@ -17,10 +17,8 @@ Buscamos pessoas que sejam engajadas com nosso objetivo, que sejam criativas e �
 
 Crie um repositório no seu Github e envie para ele a solução para o desafio proposto neste documento.
 
-Ao término envie um email para hello@bovcontrol.com informando que finalizou o teste juntamente com o endereço do repositório.
 
 O teste deverá ser realizado usando Nodejs e MongoDB.
-
 
 
 ## Cenário do problema a ser solucionado
