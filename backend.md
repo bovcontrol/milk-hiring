@@ -18,7 +18,7 @@ Buscamos pessoas que sejam engajadas com nosso objetivo, que sejam criativas e �
 Crie um repositório no seu Github e envie para ele a solução para o desafio proposto neste documento.
 
 
-O teste deverá ser realizado usando Nodejs e MongoDB.
+O teste deverá ser realizado usando JavaScript, Express, Swagger, Nodejs e MongoDB.
 
 
 ## Cenário do problema a ser solucionado
@@ -42,11 +42,11 @@ A regra para computar o preço do litro de leite é:
 Preço = (Volume do mês * Preço base) - (Custo por KM * distância da fazenda até a fábrica) + (Bônus p/ produção * litros entregues no mês)
 
 Considerando as regras descritas, crie uma API com os seguintes recursos:
-- cadastro de fazenda e fazendeiro;
+- cadastro de fazendeiro e fazenda;
 - cadastro da produção de leite diário, em litros;
-- consulta do volume de leite entregue para cada dia e a média mensal, dado um fazendeiro e um mês de parâmetro;
-- consulta do preço do litro de leite pago ao fazendeiro, dado um código de fazendeiro e um mês de parâmetro. Apresentar o preço no formato numérico brasileiro e inglês;
-- consulta do preço do litro de leite pago para cada mês do ano, dado um fazendeiro e um ano de parâmetro. Apresentar o preço no formato numérico brasileiro e inglês;
+- consulta do volume de leite entregue para cada dia e a média mensal, dado uma fazenda e um mês de parâmetro;
+- consulta do preço do litro de leite pago ao fazendeiro, dado um código de fazenda e um mês de parâmetro. Apresentar o preço no formato numérico brasileiro e inglês;
+- consulta do preço do litro de leite pago para cada mês do ano, dado uma fazenda e um ano de parâmetro. Apresentar o preço no formato numérico brasileiro e inglês;
 
 
 
@@ -68,6 +68,4 @@ Critérios específicos que iremos avaliar:
 
 ## Dúvidas
 
-Caso tenha dúvidas sobre o entendimento do problema, não hesite em perguntar, é importante que o cenário esteja claro em sua mente antes de resolvê-lo.
-
-Iremos te ajudar a entender o problema sempre que precisar, só precisa perguntar :).
+A interpretação do problema apresentado faz parte do teste.
