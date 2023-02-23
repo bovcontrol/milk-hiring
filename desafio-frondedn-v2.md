@@ -53,7 +53,7 @@ Como estaremos analisando esses requisitos deixamos que o design seja **decidid
 
 ## **Prazo de entrega 🤓**
 
-O desafio deve ser realizado em 72 horas a partir da data de envio do desafio.
+O desafio deve ser realizado em 96 horas a partir da data de envio do desafio.
 
 Caso tenha algum imprevisto avise com antecedência o encarregado do desafio.
 
