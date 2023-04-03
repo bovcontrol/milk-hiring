@@ -60,8 +60,14 @@ Critérios específicos que iremos avaliar:
 - aplicação de conceitos de orientação a objetos (herança, polimorfismo, composição, encapsulamento);
 - aplicação de conceitos de padrões de projeto (criação, estrutura e comportamento);
 - aplicação de conceitos de API REST;
-- qualidade do código; Esperamos código sem/ou baixo acoplamento, alta coesão, nomes de classes, métodos e funções claros e condizentes com o que representem ou realizam;
-- separação em camadas da aplicação; Esperamos visualizar as camadas da aplicação de forma bem definida (requisição, validação, controllers, dto, caso de uso, entidades, objetos de valor, serviços de domínio, serviços de aplicação, repositório, infraestrutura, etc);
+- qualidade do código. Esperamos código sem/ou baixo acoplamento, alta coesão, nomes de classes, métodos e funções claros e condizentes com o que representem ou realizam;
+- Camada de validação de entrada de dados (request);
+- Camada de caso de uso (regra de negócio);
+- Camada de tratamento de erro;
+- Camada de conexão com banco de dados;
+- Camada de apresentação de dados (response);
+- Camada de autenticação;
+- Uso de ECMAScript 6;
 - escalabilidade do projeto;
 - manutenibilidade (facilidade de adição de novos recursos, alteração nos que existem, facilidade de depuração, testes);
 - estrutura de dados;
