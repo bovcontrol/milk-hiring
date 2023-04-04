@@ -19,7 +19,7 @@ Como estaremos analisando esses requisitos deixamos que o design seja *decidido 
  Existe uma grande demanda para registrar áreas de propriedades dos nossos clientes. Para resolver esse problema, gostaríamos que fosse criada uma plataforma com as seguintes funcionalidades:
  
  - Tela inicial com a renderização do Mapa;
- - Consiga desenhar no mapa, a área da propriedade. [Poligono];
+ - Consiga desenhar no mapa, a área da propriedade. [Polígono];
  - Ao completar o desenho de uma área, exibir modal com um formulário com o sequintes campos:
     - Nome da propriedade
     - Nome do proprietário
