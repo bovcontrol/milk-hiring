@@ -18,7 +18,8 @@ Buscamos pessoas que sejam engajadas com nosso objetivo, que sejam criativas e �
 Crie um repositório no seu Github e envie para ele a solução para o desafio proposto neste documento.
 
 
-O teste deverá ser realizado usando JavaScript, Express, Swagger, Nodejs e MongoDB.
+O teste deverá ser realizado usando JavaScript, Express, Swagger, Nodejs e MongoDB(Usar drive nativo do mongodb).
+OBS: Não queremos que use typescript, Nestjs e mongoose.
 
 
 ## Cenário do problema a ser solucionado
@@ -57,7 +58,6 @@ O objetivo do teste é permitir que possamos conhecer um pouco sobre suas habili
 Critérios específicos que iremos avaliar:
 
 - nível de conhecimento da linguagem;
-- aplicação de conceitos de orientação a objetos (herança, polimorfismo, composição, encapsulamento);
 - aplicação de conceitos de padrões de projeto (criação, estrutura e comportamento);
 - aplicação de conceitos de API REST;
 - qualidade do código. Esperamos código sem/ou baixo acoplamento, alta coesão, nomes de classes, métodos e funções claros e condizentes com o que representem ou realizam;
